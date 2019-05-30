@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EventHubTestJava</string>
+    <string name="resetPassword">Reset Your Password</string>
+    <string name="currentPassword">Current Password</string>
+    <string name="newPassword">New Password</string>
+    <string name="confirmPassword">Confirm New Password</string>
+    <string name="resetBtn">Update Password</string>
+
+</resources>
